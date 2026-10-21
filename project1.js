@@ -1,7 +1,7 @@
 const names = [
-    'Ava', 'Liam', 'Olivia', 'Noah', 'Emma',
-    'Oliver', 'Amelia', 'Elijah', 'Sophia', 'James',
-    'Isabella', 'Layla'
+    'isaac', 'ojo', 'stephen', 'Noah', 'Emma',
+    'Oliver', 'mercy', 'Elijah', 'Sophia', 'James',
+    'Isabella', 'still'working'it'
 ];
 
 console.log(names.join('\n'));
